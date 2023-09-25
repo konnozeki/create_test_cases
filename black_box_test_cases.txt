@@ -1,0 +1,19 @@
+-100,-100,Đầu vào không hợp lệ
+17,0,Đầu vào không hợp lệ
+23,16,Đầu vào không hợp lệ
+38,19,Đầu vào không hợp lệ
+81,45,Đầu vào không hợp lệ
+-100,201,Đầu vào không hợp lệ
+17,201,Đầu vào không hợp lệ
+23,201,Đầu vào không hợp lệ
+38,201,Đầu vào không hợp lệ
+81,201,Đầu vào không hợp lệ
+14,201,Đầu vào không hợp lệ
+-100,139,Đầu vào không hợp lệ
+-100,182,Đầu vào không hợp lệ
+16,145,Giảm giá 60%. Mua 1 tặng 1
+15,172,Giảm giá 60%. 
+23,149,Giảm giá 30%. Mua 1 tặng 1
+23,190,Giảm giá 30%. 
+79,142,Mua 1 tặng 1
+78,175,Không được giảm giá

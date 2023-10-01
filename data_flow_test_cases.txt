@@ -1,0 +1,6 @@
+-2,100,Đầu vào không hợp lệ
+16,130,Giảm giá 60%. Mua 1 tặng 1
+23,140,Giảm giá 30%. Mua 1 tặng 1
+24,175,Giảm giá 30%. 
+30,145,Mua 1 tặng 1
+40,180,Không được giảm giá
